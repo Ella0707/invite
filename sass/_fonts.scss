@@ -5,3 +5,11 @@
     url("./../fonts/Old-Soviet.otf") format("otf"),
     url("./../fonts/Old-Soviet.woff") format("woff"),
 }
+
+@font-face {
+  font-family: "Felidae";
+  src:
+    local("Felidae"),
+    url("./../fonts/Felidae.ttf") format("ttf"),
+    url("./../fonts/Felidae.woff") format("woff"),
+}
